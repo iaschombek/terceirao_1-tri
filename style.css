@@ -1,6 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
 :root{
     --branco: #FFFFFF;
     --roxo1aba: #A04CE0;
     --roxo2aba: #D24CE0;
     --rosa: #E04CA3;
+    --botao-ativo:rgba(160, 76, 224, 0.78);
+    --botao-inativo:rgba(210, 76, 224, 0.69);
 }
