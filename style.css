@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
 
 :root{
     --branco: #FFFFFF;
@@ -7,4 +7,9 @@
     --rosa: #E04CA3;
     --botao-ativo:rgba(160, 76, 224, 0.78);
     --botao-inativo:rgba(210, 76, 224, 0.69);
+}
+body{
+    background-color: var(--rosa);
+    color: var(--branco);
+    font-family: 'Embed code', 'Sans-Serif';
 }
