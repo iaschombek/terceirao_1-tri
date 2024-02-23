@@ -13,3 +13,7 @@ body{
     color: var(--branco);
     font-family: 'Embed code', 'Sans-Serif';
 }
+.conteudo-principal{
+    display: flex;
+    flex-direction: column;
+}
