@@ -5,6 +5,7 @@
     --roxo1aba: #A04CE0;
     --roxo2aba: #D24CE0;
     --rosa: #E04CA3;
+    --verde: #6FFF57;
     --botao-ativo:rgba(160, 76, 224, 0.78);
     --botao-inativo:rgba(210, 76, 224, 0.69);
 }
@@ -26,4 +27,7 @@ body{
     text-align: left;
     width: 100%;
     font-size: 45px;
+}
+.titulo-principal span{
+    color: var(--verde);
 }
