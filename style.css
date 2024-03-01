@@ -34,4 +34,5 @@ body{
 }
 .botao{
     font-family: 'Embed code', 'Sans-Serif';
+    background-color: var(--roxo2aba);
 }
