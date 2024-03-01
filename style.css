@@ -33,6 +33,6 @@ body{
     color: var(--verde);
 }
 .botao{
-    font-family: 'Embed code', 'Sans-Serif';
+    font-family: 'Embed code', Sans-Serif;
     background-color: var(--roxo2aba);
 }
