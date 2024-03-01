@@ -35,4 +35,10 @@ body{
 .botao{
     font-family: 'Embed code', Sans-Serif;
     background-color: var(--roxo2aba);
+    display: flex;
+    justify-content: center;
+    padding: 1em;
+    font-size: 18px;
+    align-items: center;
+    
 }
